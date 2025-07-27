@@ -48,12 +48,11 @@ export const Desc = styled.div`
 `;
 
 const SkillsContainer = styled.div`
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
   margin-top: 30px;
-  gap: 30px;
   justify-content: center;
+  display: grid;
+  gap:120px;
+  grid-template-columns: repeat(2, 1fr);
 `
 
 const Skill = styled.div`

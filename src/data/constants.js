@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/pradeep-Sharma2003",
   resume:
-    "https://drive.google.com/file/d/1AMBTbcbB4Gc_Rl-D1knxIPu259auihdq/view?usp=sharing",
+    "https://docs.google.com/document/d/1CraUGUa7nXMdcY8ArbrwCcj7l9hE6yF7/edit?usp=sharing&ouid=107430508988671664518&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/pradeep-sharma-ps/",
   twitter: "https://x.com/Pradeep78592034",
   insta: "https://www.instagram.com/pradeeppssharma829/?next=%2F",
@@ -160,7 +160,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://tbi.geu.ac.in/assets/img/logo.png",
+    img: "https://github.com/pradeep-Sharma2003/images/blob/main/Tbi_geu_logo.jpeg?raw=true",
     role: "Fullstack Web development Intern",
     company: "Technology Business Incubator GEU",
     date: "Apr 2024 - Jun 2024",
@@ -181,7 +181,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://tse3.mm.bing.net/th?id=OIP.IMYIlNiFxKr4g6FWS0kKjAHaE8&pid=Api&P=0&h=220",
+    img: "https://github.com/pradeep-Sharma2003/images/blob/main/edu.png?raw=true",
     role: "leverage SkillBuild & IBM Cloud (AI and Cloud)",
     company: "edunet (AICTE)",
     date: "Jul 2024 - Aug 2024",
@@ -251,16 +251,16 @@ export const education = [
     id: 0,
     img: "https://tse3.mm.bing.net/th?id=OIP.D2hyhTrFMIwUT_vKuoUWngAAAA&pid=Api&P=0&h=220",
     school: "Graphic era hill University, Uttarakhand",
-    date: "Aug 2023 - Jul 2025",
-    grade: "9.07 CGPA",
-    desc: "I am currently pursuing a Master's degree in Computer Application (MCA) at Graphic era hill University, Uttarakhand. I have completed 1 Year and have a CGPA of 9.07. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at GEU, where I am learning and working on exciting projects with a team of talented developers.",
+    date: "July 2023 - Jun 2025",
+    grade: "9.13 CGPA",
+    desc: "I am Completing my Master's degree in Computer Application (MCA) at Graphic era hill University, Uttarakhand. I have completed my Post-Graducation and have a CGPA of 9.13. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at GEU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Master of Computer Application - MCA",
   },
   {
     id: 1,
     img: "https://tse3.mm.bing.net/th?id=OIP.D2hyhTrFMIwUT_vKuoUWngAAAA&pid=Api&P=0&h=220",
     school: "Graphic era hill University, Uttarakhand",
-    date: "Jul 2020 - jul 2023",
+    date: "Jul 2020 - jun 2023",
     grade: "9.01 CGPA",
     desc: "I am completing my  Bachelor's degree in Computer Application (BCA) at Graphic era hill University, Uttarakhand. I have completed my Graduation and have a CGPA of 9.01.",
     degree: "Bachelor of Computer Application - BCA",
@@ -386,7 +386,7 @@ export const projects = [
     description:
       "Multiple Disease Prediction Project: This project leverages machine learning algorithms to predict various diseases such as diabetes, heart disease, and Parkinson's disease. By analyzing patient data and identifying patterns, the model aims to provide accurate and early diagnoses to aid in timely medical intervention and treatment planning.",
     image:
-      "https://github.com/nitinsharma2004/images/blob/main/Screenshot%202024-07-13%20100318.png?raw=true",
+      "https://github.com/pradeep-Sharma2003/images/blob/main/Multiple%20disease%20prediction.png?raw=true",
     tags: ["Python", "Machine Learning", "Streamlit","Pandas","seaborn"],
     category: "machine learning",
     github: "https://github.com/pradeep-Sharma2003/Multiple-disease-Prediction",
